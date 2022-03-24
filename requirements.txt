@@ -1,1 +1,6 @@
-
+streamlit
+pandas
+matplotlib
+yfinance
+base64
+ssl
