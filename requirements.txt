@@ -1,5 +1,5 @@
-pandas==1.4.1
-matplotlib==3.5.1
-base58==2.1.1
-yfinance==0.1.70
-streamlit==1.7.0
+pandas
+matplotlib
+base58
+yfinance
+streamlit
